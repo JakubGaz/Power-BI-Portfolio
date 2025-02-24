@@ -17,7 +17,7 @@ This Power BI project analyzes the operational efficiency of a transport company
 This Power BI project analyzes sales performance in a coffee shop. The dashboard provides insights into product popularity, sales trends, peak hours, and payment methods. It helps track customer preferences, optimize inventory, and improve business strategies
 
 
-🔗 [View Project](https://app.powerbi.com/reportEmbed?reportId=cd8ff96a-f42d-4cfd-9f94-628c948b6740&autoAuth=true&ctid=09431c8d-51e9-4f0e-a6d1-45c91b46b4d1))
+🔗 [View Project](https://app.powerbi.com/reportEmbed?reportId=cd8ff96a-f42d-4cfd-9f94-628c948b6740&autoAuth=true&ctid=09431c8d-51e9-4f0e-a6d1-45c91b46b4d1)
 🔗 [PDF Version](https://we.tl/t-pQKIRVCH6p)
 ---
 
