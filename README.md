@@ -39,7 +39,10 @@ The project is a Power BI report analyzing non-rotating products. It provides in
 
 ## 📧 Contact
 If you have any questions or would like to collaborate, contact me at:
-🔗 [LinkedIn](https://www.linkedin.com/in/jakub-gazdowicz-a24367183/)
+<a href="https://www.linkedin.com/in/twoj-profil">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24">
+</a>
+ [LinkedIn](https://www.linkedin.com/in/jakub-gazdowicz-a24367183/)
 
 ---
 
